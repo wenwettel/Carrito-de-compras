@@ -1,4 +1,5 @@
 # Carrito-de-compras:
+Curso de JS Moderno.
 Plataforma: Udemy; Maquetado: docente; JS: en el curso ; Tema: Local Storage.
 
 Se trabajo en la funcionalidad de:
